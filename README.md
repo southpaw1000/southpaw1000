@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @southpaw1000
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... JavaScript and python
 - 💞️ I’m looking to collaborate on ...web developing and robotics
-- 📫 contact me ... elishastraton0001@gmail.com...or +255620704215
+- 📫 contact me ... elishastraton0001@gmail.com...or +255685709353
 
 <!---
 southpaw1000/southpaw1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
