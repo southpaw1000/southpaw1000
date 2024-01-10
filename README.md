@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @southpaw1000
+- 👋 Hi, I’m @Elisha Straton
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... JavaScript and python
 - 💞️ I’m looking to collaborate on ...web developing and robotics
